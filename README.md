@@ -10,6 +10,7 @@ This repository contains the computational modeling, kinematic validation, and r
 
 ---
 
+
 ##  System Architecture & Specifications
 The manipulator features a serialized kinematic chain built with parameterized **Cylindrical Solid** blocks and connected via four **Revolute Joints** (Base, Shoulder, Elbow, and Wrist). Orthogonal orientation frames were set using Rigid Transform blocks ($+X$ rotations at $90^\circ$ and $-90^\circ$).
 
