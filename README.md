@@ -10,7 +10,7 @@ This repository contains the computational modeling, kinematic validation, and r
 
 ---
 
-## 🦾 System Architecture & Specifications
+##  System Architecture & Specifications
 The manipulator features a serialized kinematic chain built with parameterized **Cylindrical Solid** blocks and connected via four **Revolute Joints** (Base, Shoulder, Elbow, and Wrist). Orthogonal orientation frames were set using Rigid Transform blocks ($+X$ rotations at $90^\circ$ and $-90^\circ$).
 
 ### Standard SI Dimensions:
@@ -21,7 +21,7 @@ The manipulator features a serialized kinematic chain built with parameterized *
 
 ---
 
-## 🔬 Simulation Test Cases
+##  Simulation Test Cases
 
 ### 1. Forward Kinematics Workspace Mapping (Sine Wave Input)
 * **Configuration:** Harmonic sine wave inputs (amplitude $\pi/2$ rad, default frequencies) applied to all four revolute joints.
@@ -37,7 +37,7 @@ The manipulator features a serialized kinematic chain built with parameterized *
 
 ---
 
-## 📊 Denavit-Hartenberg (D-H) Parameters
+##  Denavit-Hartenberg (D-H) Parameters
 
 | Link ($i$) | $a_i$ (Length) | $\alpha_i$ (Twist) | $d_i$ (Offset) | $\theta_i$ (Joint Angle) |
 | :--- | :--- | :--- | :--- | :--- |
@@ -48,7 +48,7 @@ The manipulator features a serialized kinematic chain built with parameterized *
 
 ---
 
-## 🛠️ Requirements & Software
+##  Requirements & Software
 * MATLAB (R2023a or newer recommended)
 * Simscape Multibody Toolbox
 
