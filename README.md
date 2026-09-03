@@ -53,7 +53,3 @@ The manipulator features a serialized kinematic chain built with parameterized *
 * MATLAB (R2023a or newer recommended)
 * Simscape Multibody Toolbox
 
----
-1. Clone the repository:
-   ```bash
-   git clone [https://github.com/your-username/4-dof-robotic-manipulator-simscape.git](https://github.com/your-username/4-dof-robotic-manipulator-simscape.git)
