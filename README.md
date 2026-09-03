@@ -5,8 +5,8 @@ This repository contains the computational modeling, kinematic validation, and r
 ---
 
 ## 👥 Authors
-* **G Ananth Srivasthava** (Enrollment: `BSERC-10032`) — *IIITDM Kurnool*
-* **Adithi R** (Enrollment: `BSERC-07142`) — *JSS Academy of Technical Education, Bengaluru*
+* **G Ananth Srivasthava** — *IIITDM Kurnool*
+* **Adithi R** — *JSS Academy of Technical Education, Bengaluru*
 
 ---
 
